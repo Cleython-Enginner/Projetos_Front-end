@@ -22,6 +22,10 @@ https://github.com/Cleython-Enginner/menu-hamburguer-dio
 
 https://github.com/Cleython-Enginner/chatbot-digital-innovation
 
+## Encontrar Restaurantes usando Google Maps
+
+https://github.com/Cleython-Enginner/encontra-restaurantes-dio
+
 ## Jogos em JavaScript 
 
 https://github.com/Cleython-Enginner/jogo-nave-dio 
