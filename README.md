@@ -21,3 +21,5 @@ https://github.com/Cleython-Enginner/jogo-da-velha-dio
 https://github.com/Cleython-Enginner/jogo-memoria-dio
 
 https://github.com/Cleython-Enginner/jogo-genius-dio
+
+https://github.com/Cleython-Enginner/jogo-dino-digital-innovation
