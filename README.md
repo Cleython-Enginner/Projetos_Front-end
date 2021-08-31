@@ -8,7 +8,7 @@ https://github.com/Cleython-Enginner/Bootcamps-da-DIO/tree/master
 
 ## Clone do Instagram
 
-https://github.com/Cleython-Enginner/Projetos_Bootstrap_CSS_React 
+https://github.com/Cleython-Enginner/clone-instagram
 
 ## Criptomoeda 
 
