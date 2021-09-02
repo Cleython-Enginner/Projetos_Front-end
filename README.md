@@ -10,7 +10,7 @@ https://github.com/Cleython-Enginner/Bootcamps-da-DIO/tree/master
 
 https://github.com/Cleython-Enginner/clone-instagram
 
-## Criptomoeda 
+## Criptomoeda  ⚪
 
 https://github.com/Cleython-Enginner/api-criptomoeda-requi-dados
 
@@ -22,11 +22,11 @@ https://github.com/Cleython-Enginner/estacionamento-dio/blob/main/README.md
 
 https://github.com/Cleython-Enginner/menu-hamburguer-dio
 
-## ChatbootFIT 
+## ChatbootFIT  ⚪
 
 https://github.com/Cleython-Enginner/chatbot-digital-innovation
 
-## Encontrar Restaurantes usando Google Maps
+## Encontrar Restaurantes usando Google Maps  ⚪
 
 https://github.com/Cleython-Enginner/encontra-restaurantes-dio
 
