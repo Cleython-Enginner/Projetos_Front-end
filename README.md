@@ -46,7 +46,9 @@ https://github.com/Cleython-Enginner/jogo-da-velha-dio
 
 ##  Jogo da Memoria  🔵
 
-https://github.com/Cleython-Enginner/jogo-memoria-dio
+https://github.com/Cleython-Enginner/jogo-memoria-dio 
+
+##  Jogo Genius 🔵
 
 https://github.com/Cleython-Enginner/jogo-genius-dio
 
