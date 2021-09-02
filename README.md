@@ -50,6 +50,8 @@ https://github.com/Cleython-Enginner/jogo-memoria-dio
 
 ##  Jogo Genius 🔵
 
-https://github.com/Cleython-Enginner/jogo-genius-dio
+https://github.com/Cleython-Enginner/jogo-genius-dio 
+
+##  Jogo Dinossauro sem Internet  🔵
 
 https://github.com/Cleython-Enginner/jogo-dino-digital-innovation
