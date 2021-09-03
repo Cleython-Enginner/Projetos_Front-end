@@ -36,7 +36,7 @@ https://github.com/Cleython-Enginner/encontra-restaurantes-dio
 
 https://github.com/Cleython-Enginner/jogo-nave-dio 
 
-## Atirador do Espaço  🔵
+## Atirador do Espaço  🟣🔵
 
 https://github.com/Cleython-Enginner/space-shooter-dio 
 
