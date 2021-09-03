@@ -6,7 +6,7 @@ Aqui contem os Links dos projetos realizados em HTML-CSS-JAVASCRIPT
 
 https://github.com/Cleython-Enginner/Bootcamps-da-DIO/tree/master
 
-## Clone do Instagram  🔵
+## Clone do Instagram 🟡🟣🔵
 
 https://github.com/Cleython-Enginner/clone-instagram
 
