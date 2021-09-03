@@ -2,7 +2,7 @@
 
 Aqui contem os Links dos projetos realizados em HTML-CSS-JAVASCRIPT
 
-## Clone da Netflix 🔵
+## Clone da Netflix 🟡🟣🔵
 
 https://github.com/Cleython-Enginner/Bootcamps-da-DIO/tree/master
 
