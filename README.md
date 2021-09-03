@@ -44,14 +44,14 @@ https://github.com/Cleython-Enginner/space-shooter-dio
 
 https://github.com/Cleython-Enginner/jogo-da-velha-dio  
 
-##  Jogo da Memoria  🔵
+##  Jogo da Memoria  🟣🔵
 
 https://github.com/Cleython-Enginner/jogo-memoria-dio 
 
-##  Jogo Genius 🔵
+##  Jogo Genius 🟣🔵
 
 https://github.com/Cleython-Enginner/jogo-genius-dio 
 
-##  Jogo Dinossauro sem Internet  🔵
+##  Jogo Dinossauro sem Internet  🟣🔵
 
 https://github.com/Cleython-Enginner/jogo-dino-digital-innovation
