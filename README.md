@@ -32,7 +32,7 @@ https://github.com/Cleython-Enginner/encontra-restaurantes-dio
 
 ## Jogos em JavaScript 
 
-## Jogo de Nave  🔵
+## Jogo de Nave 🟣🔵
 
 https://github.com/Cleython-Enginner/jogo-nave-dio 
 
