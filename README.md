@@ -10,7 +10,7 @@ https://github.com/Cleython-Enginner/Bootcamps-da-DIO/tree/master
 
 https://github.com/Cleython-Enginner/clone-instagram
 
-## Criptomoeda  🟡
+## Criptomoeda  🟡🟢
 
 https://github.com/Cleython-Enginner/api-criptomoeda-requi-dados
 
