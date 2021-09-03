@@ -40,7 +40,7 @@ https://github.com/Cleython-Enginner/jogo-nave-dio
 
 https://github.com/Cleython-Enginner/space-shooter-dio 
 
-##  Jogo da Velha  🔵
+##  Jogo da Velha  🟣🔵
 
 https://github.com/Cleython-Enginner/jogo-da-velha-dio  
 
