@@ -61,3 +61,7 @@ https://github.com/Cleython-Enginner/jogo-dino-digital-innovation
 ## ReactJS Componentizado ⚪
 
 https://github.com/Cleython-Enginner/dio-react-componentizado
+
+## Noticias PWA ⚪
+
+https://github.com/Cleython-Enginner/react-noticias-PWA
