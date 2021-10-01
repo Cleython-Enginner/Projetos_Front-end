@@ -59,3 +59,5 @@ https://github.com/Cleython-Enginner/jogo-dino-digital-innovation
 # Projetos ReactJS
 
 ## ReactJS Componentizado ⚪
+
+https://github.com/Cleython-Enginner/dio-react-componentizado
