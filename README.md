@@ -65,3 +65,7 @@ https://github.com/Cleython-Enginner/dio-react-componentizado
 ## Noticias PWA ⚪
 
 https://github.com/Cleython-Enginner/react-noticias-PWA
+
+## PWA para Mapear dados da COVID19 ⚪
+
+https://github.com/Cleython-Enginner/covid19-react-dio
